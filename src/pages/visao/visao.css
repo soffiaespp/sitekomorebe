@@ -1,0 +1,36 @@
+header {
+    align-items: center;
+    gap: 200px;
+    padding: 20px;
+}
+.logo {
+    width: 300px;
+}
+.topo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+input {
+    width: 500px;
+    height: 35px;
+    border-radius: 25px;
+    border: 5px solid #ccc;
+    padding-left: 350px;
+    font-size: 16px;
+}
+h1 {
+    text-align: center;
+    font-family: verdana;
+    color: hotpink;
+}
+.imagem {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+}
+h2 {
+    text-align: center;
+    font-family: verdana;
+    color: hotpink;
+}
