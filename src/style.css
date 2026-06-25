@@ -2,9 +2,11 @@ header {
     align-items: center;
     gap: 200px;
     padding: 20px;
+    background-color: rgb(255, 255, 255)
 }
 
-ul {
+ul 
+{
     display: flex;
     gap: 200px;
     list-style: none;
@@ -71,6 +73,9 @@ footer {
     text-align: center;
     font-family: verdana;
     color: hotpink;
+}
+.selecao {
+    
 }
 
 
