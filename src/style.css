@@ -15,7 +15,7 @@ ul
     justify-content: center;
 }
 .logo {
-    width: 300px;
+    width: 250px;
 }
 body {
     margin: 0;
@@ -33,7 +33,7 @@ body {
 .topo {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 100px;
 }
 
 input {
@@ -54,11 +54,8 @@ input {
     font-family: verdana; /* fonte */
     font-weight: bold; /* negrito */
 }
-footer {
-    
-}
 .imagem {
-    width: 100vw;
+    width: 98vw;
     height: 100vh;
     object-fit: cover; /* era para nao distorcer a imagem */
     display: block;
@@ -66,24 +63,29 @@ footer {
 .sub {
     text-align: center;
     font-family: verdana;
-    color: hotpink;
+    color: #fd8940;
 }
 .npm {
-    border: 2px solid lightpink;
+    border: 0px solid lightpink;
     background-color: lightpink;
     padding: 0px;
-    display: flex;
-    justify-content: space-around;
+    display: flex;    
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 0px;
 }
 .rodape {
     border: 2px solid lightpink;
     background-color: lightpink;
-    padding: 15px;
+    padding: 20px;
     display: flex;
     justify-content: space-around;
+     display: flex;
+    gap:300px;
+    background-color: lightpink;
+}
+h2 {
+  justify-content: left ;
 }
 
 
