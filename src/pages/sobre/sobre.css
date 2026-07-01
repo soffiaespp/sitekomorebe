@@ -55,7 +55,7 @@ ul
     justify-content: center;
 }
 .logo {
-    width: 250px;
+    width: 300px;
 }
 body {
     margin: 0;
@@ -70,11 +70,12 @@ body {
 .click:hover {
     color: #f89840;
 }
-.topo {
+.npm {
+    border: 0px solid lightpink;
+    background-color: lightpink;
+    padding: 0px;
+    display: flex;    
     display: flex;
     align-items: center;
-    gap: 20px;
-}
-.logo {
-    width: 100px;
+    gap: 0px;
 }
